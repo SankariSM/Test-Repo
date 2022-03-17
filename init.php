@@ -107,4 +107,4 @@ function psinstall_get_memory_limit()
 		return 1024 * 1024 * 1024 * (int)$memory_limit;
 	
 	return $memory_limit;
-}
+}  
