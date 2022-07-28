@@ -1,3 +1,4 @@
 new test file asdfasdf
 test test test file edited commited to default
 text added from branchA
+test
